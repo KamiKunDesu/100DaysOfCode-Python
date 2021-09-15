@@ -22,7 +22,8 @@ Each project will have it's own comment at the top of the document which explain
 
 ## Project List
 
-* Day 1 - Band Name Generator
+* Day 1 - Band Name Generator (Demonstrates use of string input and concatenation, as well as f strings)
+* Day 2 - Tip Calculator (Demonstrates use of math operations, as well as while and try blocks)
 
 ## Technologies
 
