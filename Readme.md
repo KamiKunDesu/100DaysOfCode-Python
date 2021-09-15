@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Project List] (#project list)
+* [Project List] (#project-list)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
