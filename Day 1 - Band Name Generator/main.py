@@ -4,6 +4,10 @@ which takes the name of the City you grew up in, as well as the name of your pet
 a band name
 '''
 
+#Greeting
+print('Welcome to the Band Name generator.')
+print('Hopefully you can use this to come up with a band name - first, let\'s just get some info.')
+
 #takes the name of the city you grew up in and stores it in a variable city_name
 city_name = input("What is the name of the city which you grew up in? ")
 print('')
