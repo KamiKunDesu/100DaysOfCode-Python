@@ -24,6 +24,8 @@ Each project will have it's own comment at the top of the document which explain
 
 * Day 1 - Band Name Generator (Demonstrates use of string input and concatenation, as well as f strings)
 * Day 2 - Tip Calculator (Demonstrates use of math operations, as well as while and try blocks)
+* Day 3 - Text Adventure game (Demonstrates use of Regex and control flow - also made a story board for game, and used pyinstaller to export it as an executable - pretty proud of this one)
+* Day 4 - Rock, Paper, Scissors game (Demonstrates use of the Random module, as well as knowledge of lists)
 
 ## Technologies
 
