@@ -26,6 +26,10 @@ Each project will have it's own comment at the top of the document which explain
 * Day 2 - Tip Calculator (Demonstrates use of math operations, as well as while and try blocks)
 * Day 3 - Text Adventure game (Demonstrates use of Regex and control flow - also made a story board for game, and used pyinstaller to export it as an executable - pretty proud of this one)
 * Day 4 - Rock, Paper, Scissors game (Demonstrates use of the Random module, as well as knowledge of lists)
+* Day 5 - Strong Password Generator (Demonstrates use of loops, particularly for loops)
+* Day 6 - Turtle Game (This project was completed on a special website where you control a turtle with functions in order
+to get him through an obstacle course, this was to develop understanding of functions but since it was on a platform there is no Day 6 folder)
+* Day 7 - Hangman (Demonstrates understanding of breaking down more complex tasks and control flow)
 
 ## Technologies
 
