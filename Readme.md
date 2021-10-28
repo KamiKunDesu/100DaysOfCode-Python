@@ -30,6 +30,8 @@ Each project will have it's own comment at the top of the document which explain
 * Day 6 - Turtle Game (This project was completed on a special website where you control a turtle with functions in order to get him through an obstacle course, this was to develop understanding of functions but since it was on a platform there is no Day 6 folder)
 * Day 7 - Hangman (Demonstrates understanding of breaking down more complex tasks and control flow, I also wrote
 a little web scraper to pull down a most frequent nouns list because I'm a show off...)
+* Day 8 - Caeser Cipher Encoder/Decoder (Demonstrates understanding of functions which take arguments, I also
+added in a little extra by making a decoder that can decode the message even without a shift)
 
 ## Technologies
 
