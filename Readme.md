@@ -33,6 +33,7 @@ a little web scraper to pull down a most frequent nouns list because I'm a show 
 * Day 8 - Caeser Cipher Encoder/Decoder (Demonstrates understanding of functions which take arguments, I also
 added in a little extra by making a decoder that can decode the message even without a shift)
 * Day 9 - Secret Auction (Demonstrates an understanding of python dictionaries at a basic level)
+* Day 10 - Calculator (Demonstrates an understanding of functions that have outputs)
 
 ## Technologies
 
