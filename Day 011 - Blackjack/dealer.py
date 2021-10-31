@@ -1,7 +1,6 @@
 '''
 This doc is to set up the dealer class for the game
 '''
-import random
 from blackjack_player import BlackjackPlayer
 
 class Dealer(BlackjackPlayer):
@@ -18,11 +17,7 @@ class Dealer(BlackjackPlayer):
     def draw_more_if_16(self):
         '''This forces the dealer to draw one more card if they have 16 cards'''
         if self.current_score <= 16:
+            print("The dealer has less a score of less than 16, they have to draw another card")
             self.draw_card()
+            self.show_all_cards()
 
-player = Dealer()
-
-player.show_all_cards()
-player.draw_more_if_16()
-player.draw_card()
-player.show_all_cards()
