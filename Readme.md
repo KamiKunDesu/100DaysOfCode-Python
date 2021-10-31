@@ -34,6 +34,8 @@ a little web scraper to pull down a most frequent nouns list because I'm a show 
 added in a little extra by making a decoder that can decode the message even without a shift)
 * Day 9 - Secret Auction (Demonstrates an understanding of python dictionaries at a basic level)
 * Day 10 - Calculator (Demonstrates an understanding of functions that have outputs)
+* Day 11 - Blackjack (This is the capstone project that brings together all of the things that were learned on
+previous days)
 
 ## Technologies
 
