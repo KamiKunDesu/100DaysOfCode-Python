@@ -36,6 +36,8 @@ added in a little extra by making a decoder that can decode the message even wit
 * Day 10 - Calculator (Demonstrates an understanding of functions that have outputs)
 * Day 11 - Blackjack (This is the capstone project that brings together all of the things that were learned on
 previous days)
+* Day 12 - Number Guessing Game (Today was about understanding the difference between global and local scope. I
+decided to make this using a class rather than just a main file to show a deeper understanding of scope)
 
 ## Technologies
 
