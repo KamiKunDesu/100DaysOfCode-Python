@@ -12,7 +12,7 @@ import re
 import random
 import os
 
-def clear(): os.system("cls")
+def clear(): os.system("clear")
 
 def get_people_to_compare(data, personA=None, personB=None):
     '''This function gets the two people being compared, it sets A and B randomly on the first round,
