@@ -38,6 +38,9 @@ added in a little extra by making a decoder that can decode the message even wit
 previous days)
 * Day 12 - Number Guessing Game (Today was about understanding the difference between global and local scope. I
 decided to make this using a class rather than just a main file to show a deeper understanding of scope)
+* Day 13 - Debug (Day 13 was just a series of debugging challenges, nothing to build ourselves so there is no folder)
+* Day 14 - Higher or Lower Game (This was just another capstone project bringing together everything that was
+learned on the previous days)
 
 ## Technologies
 
