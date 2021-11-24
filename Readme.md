@@ -41,6 +41,7 @@ decided to make this using a class rather than just a main file to show a deeper
 * Day 13 - Debug (Day 13 was just a series of debugging challenges, nothing to build ourselves so there is no folder)
 * Day 14 - Higher or Lower Game (This was just another capstone project bringing together everything that was
 learned on the previous days)
+* Day 15 - Coffee Machine (I am super proud of this one because I managed to break it down into a bunch of unique classes that all interacted well with each other - also implemented a function for calculating optimal change return - anyway the point of the project was just to make a coffee machine to a specification of different requirements)
 
 ## Technologies
 
