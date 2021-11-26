@@ -11,7 +11,6 @@ def return_search(word):
     for count, item in enumerate(meanings):
         meanings_list.append(f"{count+1}) {item.get_text()}")
 
-    return meanings_list
+    meanings_list = '\n\n'.join(meanings_list)
 
-search = return_search("")
-print('\n\n'.join(search))
+    return meanings_list

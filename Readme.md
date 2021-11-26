@@ -42,12 +42,17 @@ decided to make this using a class rather than just a main file to show a deeper
 * Day 14 - Higher or Lower Game (This was just another capstone project bringing together everything that was
 learned on the previous days)
 * Day 15 - Coffee Machine (I am super proud of this one because I managed to break it down into a bunch of unique classes that all interacted well with each other - also implemented a function for calculating optimal change return - anyway the point of the project was just to make a coffee machine to a specification of different requirements)
+* Day 16 - Coffee Machine part 2 (Today's challenge was just making the Coffee Machine from Day 15 into an OOP paradigm
+which I already did in the first place so no folder for this day)
+* Day 17 - Quiz Game (Another project for practicing OOP principals. The project was to make a quiz game which makes a statement and the user guesses whether the statement is true or false.)
+* Day 18 - Million Dollar Painting (The goal of this project was to get a first interaction with a GUI in this case turtle, and also to learn about reading through documentation - the end goal is to randomly generate Hirst like dot paintings with the turtle module)
 
 ## Technologies
 
 * Python 3.9
 * BeautifulSoup (install where necessary)
 * pyinstaller (install where necessary)
+* colorgram.py (install where necessary)
 
 ## Setup
 
