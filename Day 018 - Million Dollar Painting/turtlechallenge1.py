@@ -14,6 +14,7 @@ turtle.penup()
 turtle.setx(-50)
 turtle.sety(200)
 turtle.pendown()
+turtle.speed(0.5)
 for i in range(3,50):
     turtle.pencolor(random.randint(1,255), random.randint(1,255), random.randint(1,255))
     for j in range(i):
