@@ -43,8 +43,26 @@ def main():
 
         # Detect collision with food
         if snake.head.distance(food) < 10:
-            food.refresh()
+            # Extend the snake
             snake.extend()
+            # Get a list of the position of each segment
+            position_list = [piece.position() for piece in snake.tail_pieces]
+            # Keep refreshing food coordinates until they find a location that isn't already occupied by a tail
+            refresh_flag = True
+            while refresh_flag:
+                # Each time assume that the food finds a valid position
+                refresh_flag = False
+                # Then refresh the potential food position
+                food.refresh_position()
+                # Then check through the position of each tail piece
+                for position in position_list:
+                    # If the position of the food collides with a current tail piece
+                    if food.randomx == position[0] or food.randomy == position[1]:
+                        # Make sure we try again by resetting the while loop flag
+                        refresh_flag = True
+            # Once we find a valid position move the food
+            food.refresh()
+            
             scoreboard.increase_score()
 
         # Detect collision with wall

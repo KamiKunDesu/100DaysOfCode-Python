@@ -23,12 +23,16 @@ class Food(Turtle):
         # Send it to the random position
         self.goto(self.randomx, self.randomy)
 
-    def refresh(self):
-        '''This method refreshes the location of the food every time the snake eats a piece of food'''
-
+    def refresh_position(self):
+        '''This method refreshes the x and y position of the food so the main function can check it its any one
+        of the other pieces'''
+        
         # Generate a random coordinate to appear on
         self.randomx = random.randrange(-280,280,20)
         self.randomy = random.randrange(-280,260,20)
+
+    def refresh(self):
+        '''This method actually moves the food'''
 
         # Send it to the random position
         self.goto(self.randomx, self.randomy)
