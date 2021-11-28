@@ -47,6 +47,8 @@ which I already did in the first place so no folder for this day)
 * Day 17 - Quiz Game (Another project for practicing OOP principals. The project was to make a quiz game which makes a statement and the user guesses whether the statement is true or false.)
 * Day 18 - Million Dollar Painting (The goal of this project was to get a first interaction with a GUI in this case turtle, and also to learn about reading through documentation - the end goal is to randomly generate Hirst like dot paintings with the turtle module)
 * Day 19 - Etch a Sketch and Turtle Race (The goal of this project was to further deepen knowledge of the turtle GUI, to get knowledge of instances of classes and to learn more about reading through documentation. This project actually has two parts, the first being an etch a sketch, the second being a turtle race)
+* Day 20 - Snake Game (The goal of todays project was to recreate the classic old school snake game. It generates understanding of GUI usage as well as class inheritance)
+* Day 21 - This day was just finishing off the snake game from the previous day so there is no folder for day 21
 
 ## Technologies
 
