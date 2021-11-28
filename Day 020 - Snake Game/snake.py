@@ -60,6 +60,7 @@ class Snake:
             pass
         # And if it isn't change it to North
         else:
+            time.sleep(0.02)
             self.head.setheading(90)
 
     def down(self):
@@ -70,6 +71,7 @@ class Snake:
             pass
         # And if it isn't change it to South
         else:
+            time.sleep(0.02)
             self.head.setheading(270)
 
     def right(self):
@@ -80,6 +82,7 @@ class Snake:
             pass
         # And if it isn't change it to East
         else:
+            time.sleep(0.02)
             self.head.setheading(0)
 
     def left(self):
@@ -90,6 +93,7 @@ class Snake:
             pass
         # And if it isn't change it to West
         else:
+            time.sleep(0.02)
             self.head.setheading(180)
 
     
