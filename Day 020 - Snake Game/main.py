@@ -8,6 +8,11 @@ from snake import Snake
 from food import Food
 from scoreboard import Scoreboard
 
+def reset():
+    scoreboard.clear()
+    snake.clear()
+
+
 # Make it all inside a main function to stop it launching on import
 def main():
     # Set up the screen for the game
@@ -29,6 +34,7 @@ def main():
     screen.onkey(snake.down, "Down")
     screen.onkey(snake.right, "Right")
     screen.onkey(snake.left, "Left")
+    
 
     # Generate first random food
     food = Food()
@@ -76,7 +82,15 @@ def main():
                     scoreboard.game_over()
                     game_on = False
 
+    def reset():
+        '''This function should reset the game'''
+        screen.clear()
+        main()
+
+    screen.onkey(reset, "c")
+
     screen.exitonclick()
 
 if __name__ == "__main__":
     main()
+

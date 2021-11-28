@@ -34,3 +34,5 @@ class Scoreboard(Turtle):
         # Write game over in the centre of the screen
         self.goto(0,0)
         self.write("Game Over!", False, align="center", font=("Courier",24,'normal'))
+        self.goto(0,-24)
+        self.write("Press c To Play Again", False, align="center", font=("Courier",24,'normal'))
