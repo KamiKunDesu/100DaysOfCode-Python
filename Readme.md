@@ -49,6 +49,8 @@ which I already did in the first place so no folder for this day)
 * Day 19 - Etch a Sketch and Turtle Race (The goal of this project was to further deepen knowledge of the turtle GUI, to get knowledge of instances of classes and to learn more about reading through documentation. This project actually has two parts, the first being an etch a sketch, the second being a turtle race)
 * Day 20 - Snake Game (The goal of todays project was to recreate the classic old school snake game. It generates understanding of GUI usage as well as class inheritance)
 * Day 21 - This day was just finishing off the snake game from the previous day so there is no folder for day 21
+* Day 22 - Pong (Demonstrated further understanding of use of GUI's as well as control of classes and listening to events)
+* Day 23 - Turtle Crosser (A capstone project of sorts to demonstrate building a game based on what I learn on days 20-22 based on just the gamed description)
 
 ## Technologies
 
@@ -60,3 +62,4 @@ which I already did in the first place so no folder for this day)
 ## Setup
 
 * You should have python 3.9 installed on your machine
+* You should pip install all of the necessary modules
