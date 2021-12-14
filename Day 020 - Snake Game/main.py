@@ -81,6 +81,12 @@ def main():
                 if snake.head.distance(tail_piece) < 10:
                     scoreboard.game_over()
                     game_on = False
+    
+    if scoreboard.score > scoreboard.high_score:
+        scoreboard.high_score = scoreboard.score
+        with open('high_score.txt', 'w') as file:
+            file.write(str(scoreboard.high_score))
+    
 
     def reset():
         '''This function should reset the game'''

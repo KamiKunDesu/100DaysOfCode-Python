@@ -10,6 +10,9 @@ class Scoreboard(Turtle):
         super().__init__()
         # Then set up a score to keep track 
         self.score = 0
+        # Add high score and read in from text file 
+        with open('high_score.txt', 'r') as file:
+            self.high_score = int(file.read())
         # Set the position
         self.setposition(0, 266)
         # Hide the Turtle
@@ -17,7 +20,7 @@ class Scoreboard(Turtle):
         # Make colour of the score title white
         self.color("white")
         # Then write it to the top of the board
-        self.write(f"Score: {self.score}", False, align="center", font=("Courier",24,'normal'))
+        self.write(f"Score: {self.score} High Score: {self.high_score}", False, align="center", font=("Courier",24,'normal'))
 
     def increase_score(self):
         '''This method increases the score whenever a the snake gets food'''
@@ -26,7 +29,7 @@ class Scoreboard(Turtle):
         self.score += 1
         # Rewrite
         self.clear()
-        self.write(f"Score: {self.score}", False, align="center", font=("Courier",24,'normal'))
+        self.write(f"Score: {self.score} High Score: {self.high_score}", False, align="center", font=("Courier",24,'normal'))
 
     def game_over(self):
         '''This function makes the title read game over'''
