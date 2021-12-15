@@ -52,6 +52,7 @@ which I already did in the first place so no folder for this day)
 * Day 22 - Pong (Demonstrated further understanding of use of GUI's as well as control of classes and listening to events)
 * Day 23 - Turtle Crosser (A capstone project of sorts to demonstrate building a game based on what I learn on days 20-22 based on just the gamed description)
 * Day 24 - Mail Merge (Two things were done this day, firstly a high score was added to the snake game from day 20, secondly a mail merge program to demonstrate reading and writing files in python by factory producing birthday invites)
+* Day 25 - American States Game (This project helped to further an understanding of reading csv files in particular as well as working with the pandas library and learning about DataFrames and csv's in general)
 
 ## Technologies
 
@@ -59,8 +60,9 @@ which I already did in the first place so no folder for this day)
 * BeautifulSoup (install where necessary)
 * pyinstaller (install where necessary)
 * colorgram.py (install where necessary)
+* pandas (install where necessary)
 
 ## Setup
 
 * You should have python 3.9 installed on your machine
-* You should pip install all of the necessary modules
+* You should pip install all of the necessary modules as listed above, either to your python main library or to a virtual environment
