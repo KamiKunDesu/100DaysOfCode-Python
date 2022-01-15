@@ -81,6 +81,7 @@ def main():
         main()
 
     screen.onkey(reset, "c")
+    
 
 
 # Make it so the program runs if isn't being imported
