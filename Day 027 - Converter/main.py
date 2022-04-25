@@ -32,7 +32,7 @@ kilometer_label.grid(column=2, row=1)
 def calculate_km():
     '''This function converts miles to kilometers and then adjusts the appropriate widget to display the result'''
     # Get miles from the entry widget
-    miles = float   (miles_input.get())
+    miles = float(miles_input.get())
     # Convert them to km
     km = round(miles*1.609, 2)
     # Update the label to the result

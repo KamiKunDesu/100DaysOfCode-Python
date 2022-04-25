@@ -54,11 +54,9 @@ which I already did in the first place so no folder for this day)
 * Day 24 - Mail Merge (Two things were done this day, firstly a high score was added to the snake game from day 20, secondly a mail merge program to demonstrate reading and writing files in python by factory producing birthday invites)
 * Day 25 - American States Game (This project helped to further an understanding of reading csv files in particular as well as working with the pandas library and learning about DataFrames and csv's in general)
 * Day 26 - NATO comprehension (This project helped to build an understanding of both dictionary and list comprehensions as well as further deepen my understanding of the pandas library and particularly how to iterate over DataFrames)
-* Day 27 - Converter (This project helped me to learn the basics of the tkinter GUI module in python as well as
-GUIs in general)
-* Day 28 - Pomodoro Timer (This project deepened my knowledge of the tkinter GUI module as well as teaching me how about
-variable scope including bringing global variables into functions. I also got to learn a bit of Adobe illustrator to
-design the buttons)
+* Day 27 - Converter (This project helped me to learn the basics of the tkinter GUI module in python as well as GUIs in general)
+* Day 28 - Pomodoro Timer (This project deepened my knowledge of the tkinter GUI module as well as teaching me how about variable scope including bringing global variables into functions. I also got to learn a bit of Adobe illustrator to design the buttons)
+* Day 29 - Password Manager (This project was to learn the final touches of Tkinter and solidify the knowledge that I'd already gained)
 
 ## Technologies
 
@@ -67,6 +65,7 @@ design the buttons)
 * pyinstaller (install where necessary)
 * colorgram.py (install where necessary)
 * pandas (install where necessary)
+* pyperclip (install where necessary)
 
 ## Setup
 

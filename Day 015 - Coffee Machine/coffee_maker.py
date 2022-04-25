@@ -35,7 +35,7 @@ class CoffeeMaker:
         coffee = self.coffee_resource_cost[coffee_type][3]
 
         # Tell them how much it will cost
-        print(f"That will cost ${cost}")
+        print(f"That will cost ${cost:.2f}")
         time.sleep(1)
 
         # Ask the coin handler to process the coins in

@@ -14,3 +14,5 @@ def return_search(word):
     meanings_list = '\n\n'.join(meanings_list)
 
     return meanings_list
+
+print(return_search("売買"))

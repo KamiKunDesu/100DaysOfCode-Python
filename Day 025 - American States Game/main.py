@@ -59,6 +59,8 @@ def main():
             states_guessed += 1
             states_guessed_list.append(answer_state)
 
+    # Print congratulations message
+
     # Make a dictionary to be turned into a csv of all the states that were missed to be learned for later
     states_to_learn_dict = {
         "States To Learn": [state for state in data["state"].tolist() if state not in states_guessed_list]
