@@ -28,22 +28,16 @@ Each project will have it's own comment at the top of the document which explain
 * Day 4 - Rock, Paper, Scissors game (Demonstrates use of the Random module, as well as knowledge of lists)
 * Day 5 - Strong Password Generator (Demonstrates use of loops, particularly for loops)
 * Day 6 - Turtle Game (This project was completed on a special website where you control a turtle with functions in order to get him through an obstacle course, this was to develop understanding of functions but since it was on a platform there is no Day 6 folder)
-* Day 7 - Hangman (Demonstrates understanding of breaking down more complex tasks and control flow, I also wrote
-a little web scraper to pull down a most frequent nouns list because I'm a show off...)
-* Day 8 - Caeser Cipher Encoder/Decoder (Demonstrates understanding of functions which take arguments, I also
-added in a little extra by making a decoder that can decode the message even without a shift)
+* Day 7 - Hangman (Demonstrates understanding of breaking down more complex tasks and control flow, I also wrote a little web scraper to pull down a most frequent nouns list because I'm a show off...)
+* Day 8 - Caeser Cipher Encoder/Decoder (Demonstrates understanding of functions which take arguments, I also added in a little extra by making a decoder that can decode the message even without a shift)
 * Day 9 - Secret Auction (Demonstrates an understanding of python dictionaries at a basic level)
 * Day 10 - Calculator (Demonstrates an understanding of functions that have outputs)
-* Day 11 - Blackjack (This is the capstone project that brings together all of the things that were learned on
-previous days)
-* Day 12 - Number Guessing Game (Today was about understanding the difference between global and local scope. I
-decided to make this using a class rather than just a main file to show a deeper understanding of scope)
+* Day 11 - Blackjack (This is the capstone project that brings together all of the things that were learned on previous days)
+* Day 12 - Number Guessing Game (Today was about understanding the difference between global and local scope. I decided to make this using a class rather than just a main file to show a deeper understanding of scope)
 * Day 13 - Debug (Day 13 was just a series of debugging challenges, nothing to build ourselves so there is no folder)
-* Day 14 - Higher or Lower Game (This was just another capstone project bringing together everything that was
-learned on the previous days)
+* Day 14 - Higher or Lower Game (This was just another capstone project bringing together everything that was learned on the previous days)
 * Day 15 - Coffee Machine (I am super proud of this one because I managed to break it down into a bunch of unique classes that all interacted well with each other - also implemented a function for calculating optimal change return - anyway the point of the project was just to make a coffee machine to a specification of different requirements)
-* Day 16 - Coffee Machine part 2 (Today's challenge was just making the Coffee Machine from Day 15 into an OOP paradigm
-which I already did in the first place so no folder for this day)
+* Day 16 - Coffee Machine part 2 (Today's challenge was just making the Coffee Machine from Day 15 into an OOP paradigm which I already did in the first place so no folder for this day)
 * Day 17 - Quiz Game (Another project for practicing OOP principals. The project was to make a quiz game which makes a statement and the user guesses whether the statement is true or false.)
 * Day 18 - Million Dollar Painting (The goal of this project was to get a first interaction with a GUI in this case turtle, and also to learn about reading through documentation - the end goal is to randomly generate Hirst like dot paintings with the turtle module)
 * Day 19 - Etch a Sketch and Turtle Race (The goal of this project was to further deepen knowledge of the turtle GUI, to get knowledge of instances of classes and to learn more about reading through documentation. This project actually has two parts, the first being an etch a sketch, the second being a turtle race)
@@ -57,6 +51,8 @@ which I already did in the first place so no folder for this day)
 * Day 27 - Converter (This project helped me to learn the basics of the tkinter GUI module in python as well as GUIs in general)
 * Day 28 - Pomodoro Timer (This project deepened my knowledge of the tkinter GUI module as well as teaching me how about variable scope including bringing global variables into functions. I also got to learn a bit of Adobe illustrator to design the buttons)
 * Day 29 - Password Manager (This project was to learn the final touches of Tkinter and solidify the knowledge that I'd already gained)
+* Day 030 - Password Manager Improved (This project was to improve the password manager by learning about try, except blocks, as well as json format. It taught error handling as well as how to read, write and update json files in python)
+* Day 031 - Flashcard App (This was another capstone project which brought a more detailed understanding of and consolidated all the things that I had been learning with regard to Tkinter so far)
 
 ## Technologies
 
