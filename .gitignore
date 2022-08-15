@@ -136,3 +136,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Environment Variables
+Day 032 - Birthday Wish/env_var.py
