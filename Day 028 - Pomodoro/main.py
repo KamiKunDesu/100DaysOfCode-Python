@@ -7,7 +7,6 @@ gave me a good chance to get to grips with GUIs and also I tried my hand at desi
 illustrator so that was fun, even if they do look a bit amateur.
 '''
 
-
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #
