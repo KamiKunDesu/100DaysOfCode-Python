@@ -1,3 +1,6 @@
+'''This is an initial practice piece of code that sends randomised quotes everyday to someone's email
+address - it was built to learn about sending email with python using SMTP'''
+
 import smtplib
 import datetime as dt
 import random
