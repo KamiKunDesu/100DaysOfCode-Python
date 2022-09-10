@@ -40,7 +40,7 @@ parameters = {
 # Get the API sunset and sunrise times
 suntime_response = requests.get(url="https://api.sunrise-sunset.org/json", params=parameters)
 # Raise any bad response
-response.raise_for_status()
+suntime_response.raise_for_status()
 # Store data for sunrise and sunset into variables
 sun_data = suntime_response.json()
 # This chain stores a list of integers [Hours, Minutes] for both sunrise time and sunset time
