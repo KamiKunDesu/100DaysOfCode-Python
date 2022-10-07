@@ -57,6 +57,7 @@ Each project will have it's own comment at the top of the document which explain
 * Day 033 - ISS Tracker (This project helped build knowledge of connecting to APIs and requesting to get responses - then working with those responses in Python)
 * Day 034 - Quiz App (This builds on the Quiz Game from day 17 to expand on knowledge of API calls, OOP and GUIs using Tkinter)
 * Day 035 - Rain Alert (This builds on my knowledge of API's, and taught me about using API keys)
+* Day 036 - Stock News (This project solidified my knowledge of APIs as well as teaching me how to find relevant APIs for the projects I work on, and how to navigate their functionality and documentation)
 
 ## Technologies
 
