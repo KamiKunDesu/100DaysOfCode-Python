@@ -59,6 +59,7 @@ Each project will have it's own comment at the top of the document which explain
 * Day 035 - Rain Alert (This builds on my knowledge of API's, and taught me about using API keys)
 * Day 036 - Stock News (This project solidified my knowledge of APIs as well as teaching me how to find relevant APIs for the projects I work on, and how to navigate their functionality and documentation)
 * Day 037 - Habit Tracker (This project builds on my knowledge of APIs and also helped me learn about post, put and delete requests)
+* Day 038 - Workout Tracking (This porject was building on knowledge for using APIs, there was very little guidance apart from which API's to use and a project description so a lot of it was built by reading through documentation and figuring stuff out myself)
 
 ## Technologies
 
