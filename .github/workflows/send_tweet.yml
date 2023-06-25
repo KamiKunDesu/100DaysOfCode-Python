@@ -1,11 +1,12 @@
-name: publish-to-twitter
+name: Tweet to Twitter
 on: [push]
 
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: infraway/tweet-action@v1
+      - uses: InfraWay/tweet-action@v1.0.1
         with:
           status: Tweeted from Github Actions
           api_key: ${{ secrets.TWITTER_API_KEY }}
